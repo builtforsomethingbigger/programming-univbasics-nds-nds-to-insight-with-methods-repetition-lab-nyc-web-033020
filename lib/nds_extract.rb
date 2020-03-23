@@ -32,7 +32,7 @@ def list_of_directors(source)
 
   while i < source.length do
     director = source[i][:name]
-    d_list <<
+    d_list << director
   end
 end
 
