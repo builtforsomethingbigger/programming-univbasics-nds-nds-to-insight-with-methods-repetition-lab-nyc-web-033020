@@ -1,6 +1,5 @@
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 require_relative './directors_database'
-require_relative 'pp'
 
 
 def directors_totals(source)
