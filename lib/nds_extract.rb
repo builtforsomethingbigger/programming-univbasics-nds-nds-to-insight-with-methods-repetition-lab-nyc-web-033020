@@ -27,6 +27,11 @@ end
 
 def list_of_directors(source)
   # Write this implementation
+  director = 0
+  d_list = Array.new
+  while i < source.length do
+
+  end
 end
 
 def total_gross(source)
