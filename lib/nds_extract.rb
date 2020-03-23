@@ -27,10 +27,12 @@ end
 
 def list_of_directors(source)
   # Write this implementation
-  director = 0
   d_list = Array.new
-  while i < source.length do
+  director = 0
 
+  while i < source.length do
+    director = source[director][:name]
+    d_list <<
   end
 end
 
